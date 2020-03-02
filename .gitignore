@@ -10,3 +10,6 @@ ludovic_delsol_ynov.zip
 readme.md
 image/
 save/
+dataset/cordis-fp7projects.csv
+dataset/flight_airports.dat
+dataset/flight_flow.dat
